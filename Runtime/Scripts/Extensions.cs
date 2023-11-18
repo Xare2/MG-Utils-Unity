@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace MendiGames.Utils
 {
-    public static class Entensions
+    public static class Extensions
     {
         /* -------------------------- COLLECTION EXTENSIONS ------------------------- */
 
